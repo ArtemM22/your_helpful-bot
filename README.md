@@ -7,6 +7,6 @@ A bot that will help you with daily tasks
 2)  Run code with command:
 
 
-...bash
+```bash
 python main.py
-...
+```
